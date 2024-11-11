@@ -1,6 +1,7 @@
 ## Vaishvi Shah 👋
 
 **About Me:**
+
 I'm a first year student studying software engineering @ the University of Waterloo. My interests primarily lie in machine learning, human-computer interactions, and financial technology.
 
 **Previously, I have...**
