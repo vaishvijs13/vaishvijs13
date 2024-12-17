@@ -1,4 +1,4 @@
-## Hi, I'm Vaishvi Shah 👋
+## Hi, I'm Vaishvi 👋
 
 **About Me:**
 
