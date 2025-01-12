@@ -9,5 +9,6 @@ I'm a first year student studying software engineering @ the University of Water
 * Built an innovative haptic device that renders planes in virtual environments
 * Won Hack the North with a machine vision app that provides accurate driver diagnostics
 * Published a paper about influenza vaccine effectiveness in the Journal of Emerging Investigators
+* Been recognized as Alberta's youngest Top 30 Under 30 for my novel research in Human-Computer Interactions
 
 I’m always open to new ideas, projects, and conversations. If you're working on something in XR or fintech, or just want to chat about tech, feel free to reach out!
