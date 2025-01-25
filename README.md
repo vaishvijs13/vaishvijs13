@@ -12,4 +12,4 @@ I am currently studying Software Engineering at the University of Waterloo. My i
 * Been recognized as Alberta's youngest Top 30 Under 30 for my novel research in human-computer interaction
 * Founded an international nonprofit to provide accessible STEM initiatives to 200+ youth in underserved communities
 
-I’m always open to new ideas, projects, and conversations. If you’re working on something inspiring or want to collaborate, let’s connect!
+I’m always open to new ideas, projects, and conversations. If you’re working on something inspiring or want to collaborate, let’s connect at vaishvi.shah@uwaterloo.ca!
