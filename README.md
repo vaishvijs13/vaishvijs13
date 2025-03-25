@@ -2,7 +2,7 @@
 
 **About Me:**
 
-I am currently studying Software Engineering at the University of Waterloo. My interests primarily lie in machine learning, human-computer interaction, and financial technology.
+I am currently studying Software Engineering at the University of Waterloo. My interests lie in machine learning, financial technology, and startups.
 
 **Previously, I have...**
 * Interned at Launchcode as a full-stack software engineer
