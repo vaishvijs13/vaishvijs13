@@ -1,14 +1,16 @@
-## Hi, I'm Vaishvi 👋
+## hi, i'm vaishvi 👋
 
-**About Me:**
+**about me:**
 
-I am currently studying Software Engineering at the University of Waterloo. My interests lie in machine learning, financial technology, and startups.
+i am currently studying software engineering at the university of waterloo. my interests lie in machine learning, financial technology, and startups.
 
-**Previously, I have...**
-* Interned at Launchcode as a full-stack software engineer
-* Built an innovative haptic device that renders planes in virtual environments
-* Won Hack the North with a machine vision app that provides accurate driver diagnostics
-* Published a paper about influenza vaccine effectiveness in the Journal of Emerging Investigators
-* Been recognized as Alberta's youngest Top 30 Under 30 for my novel research in human-computer interaction
+**previously, i have...**
+* interned at provision (yc s22), building vision-language models and NLP systems for construction drawings and contracts
+* led an algorithmic trading project at wat street (university of waterloo's quantitative finance team)
+* interned at launchcode as a full-stack software engineer
+* built an innovative haptic device that renders planes in virtual environments
+* won hack the north with a machine vision app that provides accurate driver diagnostics
+* been recognized as alberta's youngest top 30 under 30 for my novel research in human-computer interaction
+* published a paper about influenza vaccine effectiveness in the journal of emerging investigators
 
-I’m always open to new ideas, projects, and conversations. If you’re working on something inspiring or want to collaborate, let’s connect at vaishvi.shah@uwaterloo.ca!
+i’m always open to new ideas, projects, and conversations. if you’re working on something inspiring or want to collaborate, let’s connect at vaishvi.shah@uwaterloo.ca!
