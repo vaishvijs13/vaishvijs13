@@ -7,7 +7,7 @@ i am currently studying software engineering at the university of waterloo. my i
 **previously, i have...**
 * interned at provision (yc s22), building vision-language models and NLP systems for construction drawings and contracts
 * won at hackmit with an ai app that transforms codebases into narrated video demos
-* led the machine learning division at wat street (university of waterloo's quantitative finance team)
+* led the machine learning division at wat street (uwaterloo's quantitative finance team)
 * built an innovative haptic device that renders planes in virtual environments
 * won at hack the north with a machine vision app that provides accurate driver diagnostics
 * been recognized as alberta's youngest top 30 under 30 for my novel research in human-computer interaction
